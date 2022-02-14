@@ -1,16 +1,63 @@
-### Hi there 👋
+## Olá, I'm Muneeb Ul Rehman 👋
 
-<!--
-**muneebulrehman/muneebulrehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebulrehman&label=Views&color=blue&style=plastic" alt="muneebulrehman" /> </p>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/NeatCoder_">
+  <img align="left" alt="Muneeb's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/muneeb-ul-rehman-33903b159/">
+  <img align="left" alt="Muneeb's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/muneebulrehman">
+  <img align="left" alt="Muneeb's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/bhattmuneeb/">
+  <img align="left" alt="Muneeb's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning MERN stack.
+- 👯 I’m always looking to collaborate with other developers on interesting projects.
+- 💬 Ask me about Javascript and DSA.
+- 📫 How to reach me: [Twitter - @NeatCoder_](https://twitter.com/NeatCoder_) , [LinkedIn - @MUNEEB UL REHMAN](https://www.linkedin.com/in/muneeb-ul-rehman-33903b159/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I watch Anime and play FPS games.
+
+[![Twitter: NeatCoder_](https://img.shields.io/twitter/follow/Neatcoder_?style=social)](https://twitter.com/NeatCoder_)
+[![Linkedin: muneeb-ul-rehman-33903b159](https://img.shields.io/badge/-MUNEEB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muneeb-ul-rehman-33903b159/)](https://www.linkedin.com/in/muneeb-ul-rehman-33903b159/)
+[![GitHub muneebulrehman](https://img.shields.io/github/followers/muneebulrehman?label=follow&style=social)](https://github.com/muneebulrehman)
+
+
+**Languages and Tools:**  
+
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"  />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png">
+<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"  />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+<br>
+<br>
+<h3 align="center">GitHub Statistics:</h3>
+<p align="center">
+   <a href="https://github.com/muneebulrehman">
+ &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=muneebulrehman&show_icons=true&theme=radical&locale=en" alt="Muneeb Ul Rehman" />
+   &nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebulrehman&show_icons=true&theme=radical&layout=compact" alt="Muneeb Ul Rehman" />
+    <br>
+ &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=muneebulrehman&theme=radical" alt="Muneeb Ul Rehman" />
+     </a>
+</p>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
