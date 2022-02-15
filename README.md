@@ -57,8 +57,11 @@
  &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=muneebulrehman&theme=radical" alt="Muneeb Ul Rehman" />
      </a>
 </p>
-
 <div align="center">
+  
+  [![Spotify](https://novatorem-sigma-lilac.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/znzmexvh0b82bw4zpqwi3o1xq)
+  
+
 
 ### Show some ❤️ by starring some of the repositories!
 
