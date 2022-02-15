@@ -1,4 +1,4 @@
-## Olá, I'm Muneeb Ul Rehman 👋
+## Olá,  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="wave">   Muneeb here 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebulrehman&label=Views&color=blue&style=plastic" alt="muneebulrehman" /> </p>
 
@@ -28,6 +28,7 @@
 [![Twitter: NeatCoder_](https://img.shields.io/twitter/follow/Neatcoder_?style=social)](https://twitter.com/NeatCoder_)
 [![Linkedin: muneeb-ul-rehman-33903b159](https://img.shields.io/badge/-MUNEEB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muneeb-ul-rehman-33903b159/)](https://www.linkedin.com/in/muneeb-ul-rehman-33903b159/)
 [![GitHub muneebulrehman](https://img.shields.io/github/followers/muneebulrehman?label=follow&style=social)](https://github.com/muneebulrehman)
+<hr/>
 
 
 **Languages and Tools:**  
@@ -43,7 +44,9 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+
 <br>
+<hr/>
 <br>
 <h3 align="center">GitHub Statistics:</h3>
 <p align="center">
