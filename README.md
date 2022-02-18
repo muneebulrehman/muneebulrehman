@@ -24,7 +24,7 @@
 - 📫 How to reach me: [Twitter - @NeatCoder_](https://twitter.com/NeatCoder_) , [LinkedIn - @MUNEEB UL REHMAN](https://www.linkedin.com/in/muneeb-ul-rehman-33903b159/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I watch Anime and play FPS games.
-- - Open to new job opportunities.
+-  Open to new job opportunities.
 
 [![Twitter: NeatCoder_](https://img.shields.io/twitter/follow/Neatcoder_?style=social)](https://twitter.com/NeatCoder_)
 [![Linkedin: muneeb-ul-rehman-33903b159](https://img.shields.io/badge/-MUNEEB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muneeb-ul-rehman-33903b159/)](https://www.linkedin.com/in/muneeb-ul-rehman-33903b159/)
