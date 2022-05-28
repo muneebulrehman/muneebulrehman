@@ -18,7 +18,7 @@
 <br/>
 
 
-- 🌱 I’m currently working on a MERN stack web app.
+- 🌱 I’m currently working on my own ecommerce app.
 - 👯 I’m always looking to collaborate with other developers on interesting projects.
 - 💬 Ask me about Javascript, React, Node.js and DSA.
 - 📫 How to reach me: [Twitter - @NeatCoder_](https://twitter.com/NeatCoder_) , [LinkedIn - @MUNEEB UL REHMAN](https://www.linkedin.com/in/muneeb-ul-rehman-33903b159/)
