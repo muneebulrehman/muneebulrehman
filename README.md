@@ -22,7 +22,6 @@
 - 👯 I’m always looking to collaborate with other developers on interesting projects.
 - 💬 Ask me about Javascript, React, Node.js and DSA.
 - 📫 How to reach me: [Twitter - @NeatCoder_](https://twitter.com/NeatCoder_) , [LinkedIn - @MUNEEB UL REHMAN](https://www.linkedin.com/in/muneeb-ul-rehman-33903b159/)
-- 😄 Pronouns: He/His
 - ⚡ In my free time: I watch Anime and play FPS games.
 -  Open to new job opportunities or internship offers.
 
